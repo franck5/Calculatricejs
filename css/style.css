@@ -1,0 +1,22 @@
+ body {
+    font-family: 'OpenSans', sans-serif;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -ms-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+#container {
+    font-size: 32px;
+    margin: 128px auto;
+    width: 768px;
+}
+
+h1 {
+    text-align: center;
+    color: #333;
+    margin-bottom: 32px;
+    text-shadow: 0 1px 1px rgba(0, 0, 0, .4);
+}
+
